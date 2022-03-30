@@ -29,7 +29,7 @@ import static java.util.stream.Collectors.toList;
 */
 
 public class Task4 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(bufferedReader.readLine().trim());
 
