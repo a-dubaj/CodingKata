@@ -1,5 +1,5 @@
 /*
-    Write a C++ Program to Display Number (Entered by the User). Here’s simple Program to Print Number (Entered by the User) in C++ Programming Language.
+    Write a C++ Program to Display Number (Entered by the User).
 */
 
 #include <iostream>
