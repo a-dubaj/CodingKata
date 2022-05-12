@@ -13,6 +13,6 @@ int main()
     std::cout << "\nEnter second number: ";
     std::cin >> second;
     sum = first + second;
-    std::cout << "\nSum of Two Numbers [ " << first << " + " << second << " ] = " << sum << "\n";
+    std::cout << "\nSum of two numbers [ " << first << " + " << second << " ] = " << sum << "\n";
     return 0;
 }
