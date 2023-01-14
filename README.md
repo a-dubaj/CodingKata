@@ -1,1 +1,1 @@
-# CodingKatas
+# Coding Katas
